@@ -2,24 +2,24 @@
 Personal Library Manager
 # Core Features 
 ## 1- 📚 Book Details:
-Title (string),
+Title (string)
 
-Author (string),
+Author (string)
 
-Publication Year (integer) ,
+Publication Year (integer) 
 
-Genre (string) ,
+Genre (string) 
 
 📂 Read Status (boolean: True if read, False if unread).
 
 ## 2- Menu System: 🔍
-Add a book ,
+Add a book 
 
-Remove a book ,
+Remove a book 
 
-Search for a book ,
+Search for a book 
 
-Display all books ,
+Display all books 
 
 Display statistics (total books, percentage read) ,
 
